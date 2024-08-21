@@ -75,6 +75,7 @@ print(f"模型的总参数量: {total_params/(1024*1024)}M")
 
 赛题1链接：
 
-gitlink: [llrong/jittor-开始测试-开放域少样本视觉分类: 本项目为第四届计图人工智能挑战赛队伍“开始测试”在赛题一：开放域少样本视觉分类赛题的项目开源 | GitLink](https://www.gitlink.org.cn/p38ij7xsv/jittor_kaishiceshi_jclip/tree/master)
+gitlink: [llrong/jittor-开始测试-开放域少样本视觉分类-main | GitLink](https://www.gitlink.org.cn/p38ij7xsv/jittor_kaishiceshi_jclip/tree/main)
 
 github: [sfwyy/jittor----: 本项目为第四届计图人工智能挑战赛-开放域少样本视觉分类赛题队伍“开始测试”的代码实现。 (github.com)](https://github.com/sfwyy/jittor----)
+
