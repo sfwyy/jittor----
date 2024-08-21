@@ -1,0 +1,374 @@
+Animal_Bear(A large mammal with a robust, thick fur coat, strong limbs, and a broad body.);0
+Animal_Bee(A small, fuzzy insect with yellow and black stripes, and transparent wings.);1
+Animal_Bird(A creature with feathers, wings, and a beak, often capable of flight.);2
+Animal_Butterfly(A delicate insect with colorful, patterned wings and a slender body.);3
+Animal_Camel(A large, desert-dwelling mammal with a distinctive hump on its back and long legs.);4
+Animal_Caribou(A large deer with branched antlers, adapted to cold climates.);5
+Animal_Cat(A small, agile mammal with a sleek body, sharp claws, and whiskers.);6
+Animal_Chicken(A domesticated bird with feathers in various colors and a distinctive comb on its head.);7
+Animal_Cow(A large mammal with a broad body, short legs, and a coat that can be white, black, or brown.);8
+Animal_Deer(A graceful mammal with antlers or antler-like structures, often seen in woodland areas.);9
+Animal_Dolphin(A streamlined marine mammal with a sleek, torpedo-shaped body and a friendly expression.);10
+Animal_Donkey(A sturdy, long-eared mammal with a short, compact body and a braying call.);11
+Animal_Duck(A waterfowl with webbed feet, a broad bill, and often a colorful plumage.);12
+Animal_Eagle(A large bird of prey with a hooked beak, sharp talons, and a broad wingspan.);13
+Animal_Elephant(A massive mammal with large ears, a long trunk, and thick, wrinkled skin.);14
+Animal_Elk(A large deer with impressive antlers and a robust body, often found in forested areas.);15
+Animal_Fish(An aquatic animal with gills, fins, and a streamlined body adapted for swimming.);16
+Animal_Flamingo(A tall, wading bird with long legs and a vibrant pink or reddish plumage.);17
+Animal_Fox(A small to medium-sized mammal with a bushy tail, sharp senses, and often a reddish coat.);18
+Animal_Giraffe(A tall mammal with a long neck, spotted coat, and long legs, known for its height and browsing.);19
+Animal_Goose(A large waterfowl with a long neck, webbed feet, and a distinctive honking call.);20
+Animal_Hippopotamus(A large, barrel-shaped mammal with thick grey skin, massive jaws, and short legs.);21
+Animal_Horse(A large mammal with a long mane, powerful legs, and a muscular, elegant body.);22
+Animal_Kangaroo(A marsupial with powerful hind legs, a long tail, and a strong, muscular build.);23
+Animal_Koala(A small, tree-dwelling marsupial with grey fur, large round ears, and a stout body.);24
+Animal_Leopard(A sleek, medium-sized cat with a yellow coat marked by distinctive black rosettes.);25
+Animal_Lion(A large, tawny-colored cat with a prominent mane (in males) and a powerful build.);26
+Animal_Llama(A medium-sized camelid with a long neck, woolly coat, and an expressive face.);27
+Animal_Monkey(A primate with a prehensile tail, agile limbs, and an expressive face.);28
+Animal_Orangutan(A large ape with long, reddish-brown hair, long arms, and a distinctive facial structure.);29
+Animal_Otter(A small, sleek mammal with webbed feet, a long body, and playful demeanor.);30
+Animal_Owl(A bird with a round face, large eyes, and a mottled feather pattern, adapted for nocturnal hunting.);31
+Animal_Panda(A large bear with a distinctive black-and-white coat, including black patches around the eyes and ears.);32
+Animal_Peacock(A large bird with a vibrant, iridescent tail that can be fanned out during courtship displays.);33
+Animal_Penguin(A flightless bird with black and white plumage, a waddling gait, and a streamlined body adapted to swimming.);34
+Animal_Pig(A stout mammal with a pink or light brown skin, a large snout, and small, floppy ears.);35
+Animal_Pigeon(A bird with smooth, often greyish feathers and a small head, common in urban areas.);36
+Animal_Polar_bear(A large, white bear with a thick coat, adapted to cold Arctic environments.);37
+Animal_Rabbit(A small mammal with long ears, a short fluffy tail, and soft fur, often in shades of brown, grey, or white.);38
+Animal_Raccoon(A medium-sized mammal with a greyish body, black mask around its eyes, and a ringed tail.);39
+Animal_Rhinoceros(A large, thick-skinned mammal with one or two horns on its snout and a sturdy build.);40
+Animal_Sea_lion(A marine mammal with a streamlined body, external ear flaps, and long front flippers.);41
+Animal_Seal(A marine mammal with a streamlined body, flippers, and a rounded head, adapted for swimming.);42
+Animal_Shark(A predatory fish with a streamlined body, sharp teeth, and dorsal fins, known for its sleek appearance.);43
+Animal_Sheep(A domesticated mammal with a woolly coat, often white or cream-colored, and a sturdy build.);44
+Animal_Sparrow(A small bird with a rounded body, short beak, and brown or grey feathers, commonly seen in urban areas.);45
+Animal_Squirrel(A small rodent with a bushy tail, agile limbs, and soft fur, often seen in shades of brown or grey.);46
+Animal_Swan(A large, elegant waterfowl with a long, curved neck and white feathers.);47
+Animal_Tiger(A large, orange cat with black stripes and a powerful, muscular build.);48
+Animal_Whale(A massive marine mammal with a streamlined body, large fins, and often a grey or blue coloration.);49
+Animal_Wolf(A large carnivorous mammal with a sleek, grey or brown coat, pointed ears, and a bushy tail.);50
+Animal_Zebra(A horse-like mammal with distinctive black and white stripes running vertically across its body.);51
+Caltech-101_Faces(Images of human faces with varying expressions, angles, and lighting conditions.);52
+Caltech-101_Faces_easy(Simplified images of human faces, likely with fewer variations in expression and angle.);53
+Caltech-101_Leopards(Images of leopards with their characteristic spotted fur and sleek, powerful build.);54
+Caltech-101_Motorbikes(Images of various motorcycles, highlighting their design and features.);55
+Caltech-101_accordion(Images of an accordion, a musical instrument with a bellows and keys.);56
+Caltech-101_airplanes(Images of airplanes, showcasing different types and designs of aircraft.);57
+Caltech-101_anchor(Images of ship anchors, featuring their heavy, iron structures and flukes.);58
+Caltech-101_ant(Images of ants, small insects with segmented bodies and antennae.);59
+Caltech-101_barrel(Images of barrels, often cylindrical with a curved structure and typically used for storage.);60
+Caltech-101_bass(Images of bass instruments, including electric and acoustic bass guitars.);61
+Caltech-101_beaver(Images of beavers, with their distinctive flat tails and sharp teeth.);62
+Caltech-101_binocular(Images of binoculars, featuring two lenses and a central focusing mechanism.);63
+Caltech-101_bonsai(Images of bonsai trees, featuring miniature trees in carefully crafted pots.);64
+Caltech-101_brain(Images of human brains, showcasing their complex structure and folds.);65
+Caltech-101_brontosaurus(Images of the Brontosaurus, a large, long-necked dinosaur with a massive body.);66
+Caltech-101_buddha(Images of Buddha statues, often depicting a serene figure with specific gestures and attire.);67
+Caltech-101_camera(Images of cameras, including different models and types used for photography.);68
+Caltech-101_cannon(Images of cannons, featuring large, heavy artillery pieces with a wide barrel.);69
+Caltech-101_car_side(Images of cars taken from the side, highlighting their profile and design.);70
+Caltech-101_ceiling_fan(Images of ceiling fans, including various designs and blade configurations.);71
+Caltech-101_cellphone(Images of cellphones, showing different models and their screens and buttons.);72
+Caltech-101_chair(Images of chairs, showcasing different styles and designs for seating.);73
+Caltech-101_chandelier(Images of chandeliers, featuring ornate designs with multiple hanging lights.);74
+Caltech-101_cougar_body(Images of cougars, highlighting their powerful, sleek bodies.);75
+Caltech-101_cougar_face(Close-up images of cougar faces, showcasing their features and expressions.);76
+Caltech-101_crab(Images of crabs, with their hard shells and pincers.);77
+Caltech-101_crayfish(Images of crayfish, featuring their segmented bodies and pincers.);78
+Caltech-101_crocodile(Images of crocodiles, showcasing their long bodies, scales, and powerful jaws.);79
+Caltech-101_crocodile_head(Close-up images of crocodile heads, highlighting their snouts and teeth.);80
+Caltech-101_cup(Images of cups, including various styles and designs for drinking.);81
+Caltech-101_dalmatian(Images of Dalmatians, a breed of dog with a distinctive coat covered in black or liver spots.);82
+Caltech-101_dollar_bill(Images of dollar bills, featuring the design and features of currency.);83
+Caltech-101_dragonfly(Images of dragonflies, with their large, transparent wings and elongated bodies.);84
+Caltech-101_electric_guitar(Images of electric guitars, showcasing various shapes, colors, and features.);85
+Caltech-101_emu(Images of emus, large flightless birds with long legs and a shaggy plumage.);86
+Caltech-101_euphonium(Images of euphoniums, a brass instrument with a distinct rounded bell.);87
+Caltech-101_ewer(Images of ewers, typically pitchers or jugs with a handle and spout.);88
+Caltech-101_ferry(Images of ferries, large boats used for transporting people and vehicles across bodies of water.);89
+Caltech-101_garfield(Images of Garfield, the famous cartoon cat known for his orange fur and grumpy demeanor.);90
+Caltech-101_gerenuk(Images of gerenuks, a type of antelope with a long neck and slender body.);91
+Caltech-101_gramophone(Images of gramophones, vintage record players with a large horn.);92
+Caltech-101_grand_piano(Images of grand pianos, large musical instruments with a curved body and extensive keyboard.);93
+Caltech-101_hawksbill(Images of hawksbill turtles, known for their distinctive shell patterns and beak-like mouths.);94
+Caltech-101_headphone(Images of headphones, including various designs for personal audio listening.);95
+Caltech-101_hedgehog(Images of hedgehogs, small mammals with spiky fur and a rounded body.);96
+Caltech-101_helicopter(Images of helicopters, featuring their rotors, cockpit, and helicopter body.);97
+Caltech-101_ibis(Images of ibises, wading birds with long, curved bills and slender legs.);98
+Caltech-101_inline_skate(Images of inline skates, featuring a row of wheels arranged in a line.);99
+Caltech-101_joshua_tree(Images of Joshua trees, a distinctive plant with spiky leaves and a unique silhouette.);100
+Caltech-101_ketch(Images of ketches, a type of sailing boat with two masts, often used for recreational sailing.);101
+Caltech-101_lamp(Images of lamps, featuring various styles of lighting fixtures, including table and floor lamps.);102
+Caltech-101_laptop(Images of laptops, showcasing different models with varying screen sizes and designs.);103
+Caltech-101_lobster(Images of lobsters, large crustaceans with a hard shell, long antennae, and large pincers.);104
+Caltech-101_lotus(Images of lotus flowers, featuring their distinctive large, rounded petals and floating leaves.);105
+Caltech-101_mandolin(Images of mandolins, a string instrument with a rounded body and a series of frets.);106
+Caltech-101_mayfly(Images of mayflies, delicate insects with long, transparent wings and slender bodies.);107
+Caltech-101_menorah(Images of menorahs, candelabras with multiple branches used in Jewish traditions.);108
+Caltech-101_metronome(Images of metronomes, devices used to measure musical tempo with a swinging pendulum.);109
+Caltech-101_minaret(Images of minarets, tall, slender towers often found on mosques.);110
+Caltech-101_nautilus(Images of nautiluses, marine cephalopods with a spiral shell and tentacles.);111
+Caltech-101_octopus(Images of octopuses, marine animals with eight arms, a soft body, and often a camouflaged appearance.);112
+Caltech-101_okapi(Images of okapis, forest-dwelling mammals with a body similar to a giraffe but with zebra-like legs.);113
+Caltech-101_pagoda(Images of pagodas, multi-tiered towers with traditional architectural styles, often found in East Asia.);114
+Caltech-101_platypus(Images of platypuses, egg-laying mammals with a duck-like bill, webbed feet, and a furry body.);115
+Caltech-101_pyramid(Images of pyramids, large, triangular structures with a square base, often associated with ancient Egypt.);116
+Caltech-101_revolver(Images of revolvers, a type of handgun with a rotating cylinder for holding ammunition.);117
+Caltech-101_rhino(Images of rhinoceroses, large mammals with thick skin and one or two prominent horns on their snouts.);118
+Caltech-101_rooster(Images of roosters, male chickens with bright plumage and a prominent comb on their heads.);119
+Caltech-101_saxophone(Images of saxophones, brass instruments with a curved metal body and a single-reed mouthpiece.);120
+Caltech-101_schooner(Images of schooners, a type of sailing vessel with two or more masts.);121
+Caltech-101_scissors(Images of scissors, hand tools with two sharp blades used for cutting.);122
+Caltech-101_scorpion(Images of scorpions, arachnids with pincers and a venomous stinger.);123
+Caltech-101_sea_horse(Images of seahorses, small marine fish with a horse-like head and a prehensile tail.);124
+Caltech-101_snoopy(Images of Snoopy, the famous cartoon beagle character from the Peanuts comic strip.);125
+Caltech-101_soccer_ball(Images of soccer balls, spherical objects used in the sport of soccer, typically with a pattern of black and white patches.);126
+Caltech-101_stapler(Images of staplers, office tools used for fastening papers together with metal staples.);127
+Caltech-101_starfish(Images of starfish, marine invertebrates with a star-shaped body and multiple arms.);128
+Caltech-101_stegosaurus(Images of Stegosaurus, a dinosaur with distinctive plates along its back and a spiked tail.);129
+Caltech-101_stop_sign(Images of stop signs, octagonal traffic signs with red backgrounds and white text.);130
+Caltech-101_strawberry(Images of strawberries, red, heart-shaped fruits with tiny seeds on their surface.);131
+Caltech-101_sunflower(Images of sunflowers, large yellow flowers with a central brown disc and broad petals.);132
+Caltech-101_tick(Images of ticks, small arachnids with a rounded body, often parasitic.);133
+Caltech-101_trilobite(Images of trilobites, extinct marine arthropods with segmented bodies and a hard exoskeleton.);134
+Caltech-101_umbrella(Images of umbrellas, portable devices with a canopy used for protection against rain or sun.);135
+Caltech-101_watch(Images of watches, timepieces worn on the wrist, featuring various designs and mechanisms.);136
+Caltech-101_water_lilly(Images of water lilies, aquatic plants with large, floating leaves and colorful flowers.);137
+Caltech-101_wheelchair(Images of wheelchairs, mobility devices with wheels for individuals with physical disabilities.);138
+Caltech-101_wild_cat(Images of wild cats, including various species with fur patterns adapted to their environments.);139
+Caltech-101_windsor_chair(Images of Windsor chairs, wooden chairs with a distinctive design featuring a spindle back and curved seat.);140
+Caltech-101_wrench(Images of wrenches, tools with adjustable jaws used for gripping and turning objects.);141
+Caltech-101_yin_yang(Images of the yin-yang symbol, representing the concept of duality in Chinese philosophy with a circle divided into two swirling halves.);142
+Food-101_apple_pie(Images of apple pie, a baked dessert with a pastry crust and spiced apple filling.);143
+Food-101_baby_back_ribs(Images of baby back ribs, a cut of pork ribs known for its tenderness and often served with barbecue sauce.);144
+Food-101_baklava(Images of baklava, a sweet pastry made of layers of filo dough filled with nuts and honey.);145
+Food-101_beef_carpaccio(Images of beef carpaccio, thinly sliced raw beef served with a drizzle of olive oil and lemon.);146
+Food-101_beef_tartare(Images of beef tartare, finely chopped raw beef mixed with seasonings and often served with egg yolk.);147
+Food-101_beet_salad(Images of beet salad, a dish featuring cooked beets, often mixed with greens, nuts, and vinaigrette.);148
+Food-101_beignets(Images of beignets, deep-fried pastries often coated with powdered sugar.);149
+Food-101_bibimbap(Images of bibimbap, a Korean rice dish mixed with vegetables, meat, and a spicy sauce.);150
+Food-101_bread_pudding(Images of bread pudding, a dessert made from bread soaked in milk, eggs, and spices, often served warm.);151
+Food-101_breakfast_burrito(Images of breakfast burritos, large tortillas filled with eggs, meat, cheese, and vegetables, often wrapped and served in a portable form.);152
+Food-101_bruschetta(Images of bruschetta, toasted bread slices topped with a mixture of tomatoes, basil, and garlic.);153
+Food-101_caesar_salad(Images of Caesar salad, a salad with romaine lettuce, croutons, parmesan cheese, and Caesar dressing.);154
+Food-101_cannoli(Images of cannoli, Italian pastries with a crispy shell filled with sweet, creamy ricotta cheese.);155
+Food-101_caprese_salad(Images of Caprese salad, featuring slices of fresh tomatoes, mozzarella cheese, basil, and a drizzle of olive oil.);156
+Food-101_carrot_cake(Images of carrot cake, a moist cake made with grated carrots, often topped with cream cheese frosting.);157
+Food-101_ceviche(Images of ceviche, a dish of raw fish marinated in citrus juices, mixed with onions, cilantro, and tomatoes.);158
+Food-101_cheese_plate(Images of a cheese plate, featuring a variety of cheeses often accompanied by crackers, fruits, and nuts.);159
+Food-101_cheesecake(Images of cheesecake, a creamy dessert with a graham cracker crust and often topped with fruit or chocolate.);160
+Food-101_chicken_curry(Images of chicken curry, a spicy dish with chicken cooked in a rich, flavorful curry sauce.);161
+Food-101_chicken_quesadilla(Images of chicken quesadillas, tortillas filled with chicken, cheese, and other ingredients, then grilled until crispy.);162
+Food-101_chicken_wings(Images of chicken wings, often coated in sauce and served as a finger food, typically with a side of celery and dipping sauce.);163
+Food-101_chocolate_cake(Images of chocolate cake, a rich and moist cake made with cocoa or melted chocolate, often layered and frosted.);164
+Food-101_chocolate_mousse(Images of chocolate mousse, a creamy, light dessert made with chocolate, eggs, and cream.);165
+Food-101_churros(Images of churros, deep-fried dough pastries rolled in cinnamon sugar, often served with chocolate dipping sauce.);166
+Food-101_clam_chowder(Images of clam chowder, a creamy soup made with clams, potatoes, onions, and sometimes bacon.);167
+Food-101_club_sandwich(Images of club sandwiches, layered sandwiches with turkey, bacon, lettuce, tomato, and mayonnaise, often cut into quarters.);168
+Food-101_crab_cakes(Images of crab cakes, patties made from crab meat and seasoning, often fried or baked until crispy.);169
+Food-101_creme_brulee(Images of crème brûlée, a rich custard dessert topped with a layer of caramelized sugar.);170
+Food-101_croque_madame(Images of Croque Madame, a French sandwich made with ham and cheese, topped with a fried egg.);171
+Food-101_cup_cakes(Images of cupcakes, small cakes with various flavors and often decorated with frosting and sprinkles.);172
+Food-101_deviled_eggs(Images of deviled eggs, hard-boiled eggs with a creamy, seasoned yolk mixture piped back into the whites.);173
+Food-101_donuts(Images of donuts, sweet fried dough pastries with various glazes, fillings, and toppings.);174
+Food-101_dumplings(Images of dumplings, dough wrappers filled with meat, vegetables, or other ingredients, often steamed or fried.);175
+Food-101_edamame(Images of edamame, young soybeans served in their pods, typically steamed and lightly salted.);176
+Food-101_eggs_benedict(Images of Eggs Benedict, a breakfast dish with poached eggs, ham or bacon, and hollandaise sauce on an English muffin.);177
+Food-101_escargots(Images of escargots, cooked snails typically served with garlic butter and herbs.);178
+Food-101_falafel(Images of falafel, deep-fried balls made from ground chickpeas or fava beans, often served in pita bread with vegetables.);179
+Food-101_filet_mignon(Images of filet mignon, a tender cut of beef steak known for its rich flavor and tenderness.);180
+Food-101_fish_and_chips(Images of fish and chips, battered and fried fish served with crispy potato fries.);181
+Food-101_foie_gras(Images of foie gras, a luxury dish made from fattened duck or goose liver, often served as a pâté or seared.);182
+Food-101_french_fries(Images of French fries, thin strips of deep-fried potatoes, often served with condiments.);183
+Food-101_french_onion_soup(Images of French onion soup, a savory soup made with caramelized onions and topped with melted cheese and toasted bread.);184
+Food-101_french_toast(Images of French toast, bread soaked in egg and milk, then fried and often served with syrup and fruit.);185
+Food-101_fried_calamari(Images of fried calamari, breaded and deep-fried squid rings often served with a dipping sauce.);186
+Food-101_fried_rice(Images of fried rice, a dish made from stir-fried rice with vegetables, eggs, and often meat or seafood.);187
+Food-101_frozen_yogurt(Images of frozen yogurt, a frozen dessert made from yogurt, often served with various toppings.);188
+Food-101_garlic_bread(Images of garlic bread, bread slices topped with garlic butter and herbs, then baked until crispy.);189
+Food-101_gnocchi(Images of gnocchi, small Italian dumplings made from potatoes, often served with sauces.);190
+Food-101_greek_salad(Images of Greek salad, a salad made with tomatoes, cucumbers, olives, feta cheese, and a dressing of olive oil and herbs.);191
+Food-101_grilled_cheese_sandwich(Images of grilled cheese sandwiches, bread filled with melted cheese and grilled until crispy.);192
+Food-101_grilled_salmon(Images of grilled salmon, a fish fillet cooked on a grill, often served with vegetables or a glaze.);193
+Food-101_guacamole(Images of guacamole, a creamy avocado dip mixed with tomatoes, onions, and lime juice.);194
+Food-101_gyoza(Images of gyoza, Japanese dumplings filled with meat and vegetables, often pan-fried or steamed.);195
+Food-101_hamburger(Images of hamburgers, beef patties served in buns with various toppings like lettuce, tomato, and cheese.);196
+Food-101_hot_and_sour_soup(Images of hot and sour soup, a Chinese soup with a spicy and tangy flavor, often containing mushrooms and tofu.);197
+Food-101_hot_dog(Images of hot dogs, sausages served in buns with various condiments and toppings.);198
+Food-101_huevos_rancheros(Images of huevos rancheros, a Mexican breakfast dish with fried eggs on tortillas and topped with salsa.);199
+Food-101_hummus(Images of hummus, a creamy dip made from blended chickpeas, tahini, olive oil, and spices.);200
+Food-101_ice_cream(Images of ice cream, a frozen dessert made from cream and sugar, often served in cones or bowls and available in various flavors.);201
+Food-101_lasagna(Images of lasagna, a layered pasta dish with meat sauce, cheese, and béchamel or tomato sauce, baked until bubbly.);202
+Food-101_lobster_bisque(Images of lobster bisque, a creamy soup made from lobster, often smooth and garnished with lobster meat.);203
+Food-101_lobster_roll_sandwich(Images of lobster roll sandwiches, buns filled with lobster meat mixed with mayonnaise and seasoning.);204
+Food-101_macaroni_and_cheese(Images of macaroni and cheese, pasta coated in a creamy cheese sauce, often baked until golden.);205
+Food-101_macarons(Images of macarons, delicate French cookies with a smooth, colorful shell and a creamy filling.);206
+Food-101_miso_soup(Images of miso soup, a Japanese soup with a savory broth made from miso paste, often containing tofu and seaweed.);207
+Food-101_mussels(Images of mussels, shellfish often steamed and served in their shells, commonly with garlic, wine, and herbs.);208
+Food-101_nachos(Images of nachos, tortilla chips topped with melted cheese, often served with toppings like jalapeños, sour cream, and guacamole.);209
+Food-101_omelette(Images of omelettes, eggs cooked and folded around various fillings like cheese, vegetables, and meats.);210
+Food-101_onion_rings(Images of onion rings, battered and deep-fried onion slices, often served as a side dish or snack.);211
+Food-101_oysters(Images of oysters, shellfish often served raw on the half shell, sometimes with a squeeze of lemon.);212
+Food-101_pad_thai(Images of pad Thai, a Thai stir-fried noodle dish with ingredients like shrimp, chicken, tofu, peanuts, and a tangy sauce.);213
+Food-101_paella(Images of paella, a Spanish rice dish cooked with seafood, meats, and vegetables, often served in a large pan.);214
+Food-101_pancakes(Images of pancakes, flat cakes made from batter and cooked on a griddle, often served with syrup and toppings.);215
+Food-101_panna_cotta(Images of panna cotta, an Italian dessert made from sweetened cream set with gelatin, often served with fruit or sauce.);216
+Food-101_peking_duck(Images of Peking duck, a Chinese dish with crispy-skinned duck served with pancakes, hoisin sauce, and scallions.);217
+Food-101_pho(Images of pho, a Vietnamese noodle soup with a clear broth, rice noodles, herbs, and often beef or chicken.);218
+Food-101_pizza(Images of pizza, flatbread topped with tomato sauce, cheese, and various toppings, then baked until crispy.);219
+Food-101_pork_chop(Images of pork chops, cutlets of pork that are often grilled, baked, or fried, sometimes served with gravy.);220
+Food-101_poutine(Images of poutine, a Canadian dish with fries topped with cheese curds and gravy.);221
+Food-101_prime_rib(Images of prime rib, a cut of beef roasted to a tender, flavorful state, often served with sides and au jus.);222
+Food-101_pulled_pork_sandwich(Images of pulled pork sandwiches, slow-cooked, shredded pork served on buns with barbecue sauce.);223
+Food-101_ramen(Images of ramen, a Japanese noodle soup with broth, noodles, and various toppings like pork, egg, and vegetables.);224
+Food-101_ravioli(Images of ravioli, stuffed pasta pillows filled with cheese, meat, or vegetables, often served with sauce.);225
+Food-101_red_velvet_cake(Images of red velvet cake, a cake with a distinctive red color and a cream cheese or buttercream frosting.);226
+Food-101_risotto(Images of risotto, a creamy Italian rice dish cooked slowly with broth and often flavored with mushrooms, seafood, or vegetables.);227
+Food-101_samosa(Images of samosas, deep-fried pastries filled with spiced potatoes, peas, and sometimes meat.);228
+Food-101_sashimi(Images of sashimi, thinly sliced raw fish or seafood served with soy sauce and wasabi.);229
+Food-101_scallops(Images of scallops, tender shellfish often seared or grilled, sometimes served with sauces or in dishes.);230
+Food-101_seaweed_salad(Images of seaweed salad, a salad made from seaweed with a light, tangy dressing and often garnished with sesame seeds.);231
+Food-101_shrimp_and_grits(Images of shrimp and grits, a Southern dish with seasoned shrimp served over creamy grits.);232
+Food-101_spaghetti_bolognese(Images of spaghetti Bolognese, pasta served with a rich meat sauce made with ground beef, tomatoes, and spices.);233
+Food-101_spaghetti_carbonara(Images of spaghetti carbonara, pasta with a creamy sauce made from eggs, cheese, pancetta, and black pepper.);234
+Food-101_spring_rolls(Images of spring rolls, thin rice paper rolls filled with vegetables, shrimp, or meat, often served with dipping sauce.);235
+Food-101_steak(Images of steak, grilled or pan-seared beef, often served with various sides and sauces.);236
+Food-101_strawberry_shortcake(Images of strawberry shortcake, a dessert with layers of shortcake, fresh strawberries, and whipped cream.);237
+Food-101_sushi(Images of sushi, Japanese rice rolls with various fillings like fish, vegetables, and sometimes wrapped in seaweed.);238
+Food-101_tacos(Images of tacos, tortillas filled with various ingredients like meat, cheese, and vegetables, often topped with salsa.);239
+Food-101_takoyaki(Images of takoyaki, Japanese octopus balls made from batter and octopus pieces, often topped with sauce and bonito flakes.);240
+Food-101_tiramisu(Images of tiramisu, an Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.);241
+Food-101_tuna_tartare(Images of tuna tartare, finely chopped raw tuna mixed with seasonings, often served as an appetizer.);242
+Food-101_waffles(Images of waffles, a batter-based breakfast item with a grid pattern, often served with syrup and toppings like fruit.);243
+Thu-dog_Shiba_Dog(Images of Shiba Inu dogs, a small to medium-sized breed from Japan with a fox-like appearance and a curled tail.);244
+Thu-dog_French_bulldog(Images of French Bulldogs, small dogs with bat-like ears, a muscular build, and a distinctive pushed-in face.);245
+Thu-dog_Siberian_husky(Images of Siberian Huskies, medium-sized dogs known for their striking blue eyes, thick fur, and wolf-like appearance.);246
+Thu-dog_malamute(Images of Alaskan Malamutes, large, powerful dogs with a thick coat, known for their sled-pulling ability and arctic appearance.);247
+Thu-dog_Pomeranian(Images of Pomeranians, small dogs with a fluffy double coat, often appearing in vibrant colors and with a distinctive ruff around their neck.);248
+Thu-dog_Airedale(Images of Airedales, large terriers with a distinctive rough coat, long legs, and a characteristic bushy tail.);249
+Thu-dog_miniature_poodle(Images of Miniature Poodles, small dogs with a curly coat, often trimmed in various styles and known for their intelligence.);250
+Thu-dog_affenpinscher(Images of Affenpinschers, small dogs with a monkey-like face, a rough coat, and a distinctive topknot of hair.);251
+Thu-dog_schipperke(Images of Schipperkes, small Belgian dogs with a fox-like appearance, a thick double coat, and a curled tail.);252
+Thu-dog_Australian_terrier(Images of Australian Terriers, small dogs with a rough coat, distinctive beard and eyebrows, and a confident stance.);253
+Thu-dog_Welsh_springer_spaniel(Images of Welsh Springer Spaniels, medium-sized dogs with a rich red and white coat, long ears, and a friendly expression.);254
+Thu-dog_curly_coated_retriever(Images of Curly-Coated Retrievers, large retrievers with a distinctive curly coat, known for their water-resistant fur and athletic build.);255
+Thu-dog_Staffordshire_bullterrier(Images of Staffordshire Bull Terriers, medium-sized dogs with a muscular build, short coat, and a characteristic broad face.);256
+Thu-dog_Norwich_terrier(Images of Norwich Terriers, small terriers with a wiry coat, compact build, and a friendly expression.);257
+Thu-dog_Tibetan_terrier(Images of Tibetan Terriers, medium-sized dogs with a long, flowing coat and a distinctive beard and eyebrows.);258
+Thu-dog_English_setter(Images of English Setters, large dogs with a sleek, silky coat and distinctive feathering on legs, tail, and ears.);259
+Thu-dog_Norfolk_terrier(Images of Norfolk Terriers, small terriers with a rough coat, often appearing in various shades, and a distinctive, alert stance.);260
+Thu-dog_Pembroke(Images of Pembroke Welsh Corgis, small, sturdy dogs with a short coat, characteristic short legs, and often with a docked tail.);261
+Thu-dog_Tibetan_mastiff(Images of Tibetan Mastiffs, large, powerful dogs with a dense, long coat and a majestic presence.);262
+Thu-dog_Border_terrier(Images of Border Terriers, small terriers with a rough coat, often appearing in various colors, and a lively expression.);263
+Thu-dog_Great_Dane(Images of Great Danes, large dogs with a sleek coat and a majestic stature, known for their imposing yet gentle demeanor.);264
+Thu-dog_Scotch_terrier(Images of Scottish Terriers, small, compact dogs with a distinctive rough coat, beard, and erect ears.);265
+Thu-dog_flat_coated_retriever(Images of Flat-Coated Retrievers, large retrievers with a glossy, flat coat, known for their friendly and exuberant nature.);266
+Thu-dog_Saluki(Images of Salukis, elegant, slender dogs with a silky coat and a graceful appearance, known for their speed and hunting ability.);267
+Thu-dog_Irish_setter(Images of Irish Setters, large dogs with a striking mahogany coat, long silky fur, and a lively, energetic demeanor.);268
+Thu-dog_Blenheim_spaniel(Images of Blenheim Spaniels, a type of Cavalier King Charles Spaniel with a characteristic chestnut and white coat pattern.);269
+Thu-dog_Irish_terrier(Images of Irish Terriers, medium-sized terriers with a wiry red coat, long legs, and a friendly but spirited personality.);270
+Thu-dog_bloodhound(Images of Bloodhounds, large dogs known for their distinctive droopy skin and ears, and exceptional tracking ability.);271
+Thu-dog_redbone(Images of Redbone Coonhounds, medium to large dogs with a sleek red coat, known for their hunting skills and friendly disposition.);272
+Thu-dog_West_Highland_white_terrier(Images of West Highland White Terriers, small dogs with a white, wiry coat and a distinctive, alert appearance.);273
+Thu-dog_Brabancon_griffo(Images of Brabancon Griffons, small dogs with a distinctive pushed-in face, short coat, and an alert expression.);274
+Thu-dog_dhole(Images of Dholes, wild dogs with a sleek, reddish coat and a pack-oriented social structure, known for their slender build.);275
+Thu-dog_kelpie(Images of Australian Kelpies, medium-sized herding dogs with a short coat and a keen, intelligent expression.);276
+Thu-dog_Doberman(Images of Doberman Pinschers, sleek, muscular dogs with a short coat, known for their alertness and loyalty.);277
+Thu-dog_Ibizan_hound(Images of Ibizan Hounds, slender dogs with a sleek, short coat, and large, upright ears, known for their agility and hunting skills.);278
+Thu-dog_vizsla(Images of Vizslas, medium-sized dogs with a short, rust-colored coat and a friendly, energetic demeanor.);279
+Thu-dog_cairn(Images of Cairn Terriers, small terriers with a rough, wiry coat, known for their alert expression and sturdy build.);280
+Thu-dog_German_shepherd(Images of German Shepherds, large, versatile dogs with a dense coat and a strong, protective presence.);281
+Thu-dog_African_hunting_dog(Images of African Hunting Dogs, wild dogs with a distinctive, irregular coat pattern and large, rounded ears.);282
+Thu-dog_Dandie_Dinmont(Images of Dandie Dinmont Terriers, small terriers with a distinctive topknot of hair and a long, low body.);283
+Thu-dog_Sealyham_terrier(Images of Sealyham Terriers, small terriers with a distinctive beard, long body, and a wiry coat.);284
+Thu-dog_German_short_haired_pointer(Images of German Shorthaired Pointers, athletic dogs with a sleek coat and a keen sense of smell, known for their hunting skills.);285
+Thu-dog_Bernese_mountain_dog(Images of Bernese Mountain Dogs, large dogs with a tri-color coat, known for their gentle demeanor and strength.);286
+Thu-dog_Saint_Bernard(Images of Saint Bernards, large dogs with a thick, rough coat and a gentle, friendly temperament, often associated with rescue work.);287
+Thu-dog_Leonberg(Images of Leonbergers, large, powerful dogs with a thick, golden coat and a friendly, gentle nature.);288
+Thu-dog_Bedlington_terrier(Images of Bedlington Terriers, small terriers with a distinctive lamb-like appearance, with a soft, curly coat.);289
+Thu-dog_Newfoundland(Images of Newfoundlands, large dogs with a thick, water-resistant coat and webbed feet, known for their swimming ability.);290
+Thu-dog_Lhasa(Images of Lhasa Apsos, small dogs with a long, flowing coat and a distinctive beard, known for their alertness and independence.);291
+Thu-dog_Chesapeake_Bay_retriever(Images of Chesapeake Bay Retrievers, large retrievers with a dense, waterproof coat and a strong, muscular build.);292
+Thu-dog_Lakeland_terrier(Images of Lakeland Terriers, small terriers with a distinctive wiry coat and a confident, spirited demeanor.);293
+Thu-dog_Walker_hound(Images of Walker Hounds, large, energetic dogs with a sleek coat, known for their tracking and hunting abilities.);294
+Thu-dog_American_Staffordshire_terrier(Images of American Staffordshire Terriers, medium-sized dogs with a muscular build and a short coat, known for their strength and loyalty.);295
+Thu-dog_otterhound(Images of Otterhounds, large hounds with a distinctive rough coat, webbed feet, and a keen sense of smell for tracking.);296
+Thu-dog_Sussex_spaniel(Images of Sussex Spaniels, medium-sized spaniels with a long, low body, a rich golden coat, and a friendly expression.);297
+Thu-dog_Norwegian_elkhound(Images of Norwegian Elkhounds, medium-sized dogs with a dense coat and a distinctive curled tail, known for their hunting skills.);298
+Thu-dog_bluetick(Images of Bluetick Coonhounds, large dogs with a distinctive blue-speckled coat and a strong tracking ability.);299
+Thu-dog_dingo(Images of Dingoes, wild dogs native to Australia with a lean, muscular build and a bushy tail.);300
+Thu-dog_Irish_water_spaniel(Images of Irish Water Spaniels, large spaniels with a curly, water-resistant coat and a distinctive, duck-like appearance.);301
+Thu-dog_Samoyed(Images of Samoyeds, large dogs with a fluffy, white coat, a friendly expression, and a distinctive “Sammy smile.”);302
+Thu-dog_Fila_Braziliero(Images of Fila Brasileiro, large, muscular dogs with a short coat, known for their protective and loyal nature.);303
+Thu-dog_standard_schnauzer(Images of Standard Schnauzers, medium-sized dogs with a distinctive beard and eyebrows, and a wiry coat.);304
+Thu-dog_Mexican_hairless(Images of Mexican Hairless Dogs, hairless dogs with a sleek, smooth body and an elegant appearance.);305
+Thu-dog_EntleBucher(Images of Entlebucher Mountain Dogs, medium-sized Swiss herding dogs with a tricolor coat and a muscular build.);306
+Thu-dog_Afghan_hound(Images of Afghan Hounds, large dogs with a long, flowing coat and a distinctive dignified appearance.);307
+Thu-dog_kuvasz(Images of Kuvasz, large Hungarian dogs with a dense, white coat and a strong, imposing presence.);308
+Thu-dog_English_foxhound(Images of English Foxhounds, large, athletic dogs with a sleek coat and a history as a hunting breed.);309
+Thu-dog_keeshond(Images of Keeshonds, medium-sized dogs with a thick, grayish coat, a distinctive “spectacles” pattern around their eyes, and a fox-like face.);310
+Thu-dog_Irish_wolfhound(Images of Irish Wolfhounds, very large dogs with a rough coat and a noble, gentle demeanor.);311
+Thu-dog_Scottish_deerhound(Images of Scottish Deerhounds, large, slender dogs with a rough coat and a graceful appearance, known for their hunting skills.);312
+Thu-dog_Rottweiler(Images of Rottweilers, large, powerful dogs with a black and tan coat, known for their strength and protective nature.);313
+Thu-dog_black_and_tan_coonhound(Images of Black and Tan Coonhounds, large dogs with a distinctive black and tan coat, known for their hunting and tracking abilities.);314
+Thu-dog_Great_Pyrenees(Images of Great Pyrenees, large, fluffy dogs with a white coat and a gentle, protective nature.);315
+Thu-dog_boxer(Images of Boxers, medium to large dogs with a muscular build, a short coat, and a distinctive squarish face.);316
+Thu-dog_wire_haired_fox_terrier(Images of Wire Haired Fox Terriers, small terriers with a wiry coat and a distinctive, lively expression.);317
+Thu-dog_borzoi(Images of Borzois, large, elegant sighthounds with a long, silky coat and a graceful demeanor.);318
+Thu-dog_groenendael(Images of Belgian Groenendaels, medium to large dogs with a long, black coat and a herding background.);319
+Thu-dog_collie(Images of Collies, medium to large dogs with a long, flowing coat, known for their intelligence and herding skills.);320
+Thu-dog_Gordon_setter(Images of Gordon Setters, large setters with a rich black and tan coat, known for their hunting and retrieving skills.);321
+Thu-dog_Kerry_blue_terrier(Images of Kerry Blue Terriers, medium-sized terriers with a curly, blue coat and a distinctive appearance.);322
+Thu-dog_briard(Images of Briards, large herding dogs with a long, flowing coat and a distinctive beard and eyebrows.);323
+Thu-dog_Rhodesian_ridgeback(Images of Rhodesian Ridgebacks, large dogs with a distinctive ridge of hair along their back and a sleek, muscular build.);324
+Thu-dog_Boston_bull(Images of Boston Bulls, small, sturdy dogs with a smooth coat and a characteristic square face.);325
+Thu-dog_bull_mastiff(Images of Bull Mastiffs, large, powerful dogs with a short coat and a strong, protective presence.);326
+Thu-dog_silky_terrier(Images of Silky Terriers, small terriers with a long, silky coat and a lively, confident demeanor.);327
+Thu-dog_Brittany_spaniel(Images of Brittany Spaniels, medium-sized spaniels with a rich orange and white coat, known for their hunting and retrieving skills.);328
+Thu-dog_Eskimo_dog(Images of Eskimo Dogs, large, fluffy dogs with a dense coat, known for their sled-pulling and protective nature.);329
+Thu-dog_giant_schnauzer(Images of Giant Schnauzers, large dogs with a distinctive beard, eyebrows, and a wiry coat.);330
+Thu-dog_malinois(Images of Malinois, medium to large Belgian herding dogs with a short coat and a high level of energy and intelligence.);331
+Thu-dog_Bouvier_des_Flandres(Images of Bouvier des Flandres, large herding dogs with a rough coat and a strong, muscular build.);332
+Thu-dog_whippet(Images of Whippets, slender, medium-sized dogs with a smooth coat and a graceful, athletic appearance.);333
+Thu-dog_Appenzeller(Images of Appenzeller Sennenhunds, medium-sized Swiss dogs with a tricolor coat and a strong herding background.);334
+Thu-dog_Chinese_Crested_Dog(Images of Chinese Crested Dogs, small dogs with a hairless body and a distinctive crest of hair on their head, known for their unique appearance.);335
+Thu-dog_miniature_schnauzer(Images of Miniature Schnauzers, small dogs with a distinctive beard, eyebrows, and a wiry coat.);336
+Thu-dog_soft_coated_wheaten_terrier(Images of Soft Coated Wheaten Terriers, medium-sized terriers with a soft, silky coat and a friendly, playful demeanor.);337
+Thu-dog_Weimaraner(Images of Weimaraners, large dogs with a sleek, gray coat and a noble, athletic appearance.);338
+Thu-dog_clumber(Images of Clumber Spaniels, large spaniels with a dense, white coat and a distinctive, heavyset build.);339
+Thu-dog_Greater_Swiss_Mountain_dog(Images of Greater Swiss Mountain Dogs, large dogs with a tri-color coat and a strong, muscular build.);340
+Thu-dog_toy_terrier(Images of Toy Terriers, small terriers with a sleek coat and a lively, energetic personality.);341
+Thu-dog_Italian_greyhound(Images of Italian Greyhounds, small sighthounds with a sleek, slender body and a graceful appearance.);342
+Thu-dog_basset(Images of Basset Hounds, medium-sized dogs with a long body, short legs, and a distinctive droopy face.);343
+Thu-dog_basenji(Images of Basenjis, small to medium-sized dogs with a sleek coat, known for their distinctive barkless trait and elegant demeanor.);344
+Thu-dog_Australian_Shepherd(Images of Australian Shepherds, medium-sized herding dogs with a thick coat and a high level of intelligence and energy.);345
+Thu-dog_Maltese_dog(Images of Maltese Dogs, small dogs with a long, silky white coat and a gentle, affectionate personality.);346
+Thu-dog_Japanese_spaniel(Images of Japanese Spaniels, small dogs with a distinctive long coat and a gentle demeanor.);347
+Thu-dog_Cane_Carso(Images of Cane Corsos, large Italian dogs with a muscular build and a short, dense coat.);348
+Thu-dog_Japanese_Spitzes(Images of Japanese Spitzes, small to medium-sized dogs with a fluffy white coat and a cheerful demeanor.);349
+Thu-dog_Old_English_sheepdog(Images of Old English Sheepdogs, large dogs with a long, shaggy coat and a distinctive, bear-like appearance.);350
+Thu-dog_Black_sable(Images of Black Sable Dogs, often seen in various breeds, characterized by their dark, sable-colored fur with a black overlay.);351
+Thu-dog_Border_collie(Images of Border Collies, medium-sized herding dogs known for their intelligence, agility, and distinctive coat patterns, often with a rough or smooth coat.);352
+Thu-dog_Shetland_sheepdog(Images of Shetland Sheepdogs, small to medium herding dogs with a long, flowing coat and a fox-like face.);353
+Thu-dog_English_springer(Images of English Springer Spaniels, medium-sized spaniels with a dense coat, known for their friendly demeanor and hunting skills.);354
+Thu-dog_beagle(Images of Beagles, small to medium-sized hounds with a distinctive howl, a short coat, and a friendly, inquisitive expression.);355
+Thu-dog_cocker_spaniel(Images of Cocker Spaniels, medium-sized spaniels with a silky, wavy coat and a friendly, affectionate nature.);356
+Thu-dog_Cardigan(Images of Cardigan Welsh Corgis, medium-sized herding dogs with a distinctive long tail, sturdy build, and a coat that can be various colors.);357
+Thu-dog_toy_poodle(Images of Toy Poodles, small poodles with a curly, hypoallergenic coat and a lively, intelligent demeanor.);358
+Thu-dog_Bichon_Frise(Images of Bichon Frises, small dogs with a fluffy, curly white coat and a cheerful, playful personality.);359
+Thu-dog_standard_poodle(Images of Standard Poodles, large poodles with a curly, hypoallergenic coat and a graceful, intelligent appearance.);360
+Thu-dog_komondor(Images of Komondors, large Hungarian dogs with a distinctive corded coat that gives them a mop-like appearance.);361
+Thu-dog_chow(Images of Chows, medium-sized dogs known for their distinctive lion-like mane and a unique blue-black tongue.);362
+Thu-dog_chinese_rural_dog(Images of Chinese Rural Dogs, often varied in appearance but generally medium-sized with a short coat and a practical, sturdy build.);363
+Thu-dog_Yorkshire_terrier(Images of Yorkshire Terriers, small dogs with a long, silky coat and a lively, confident personality.);364
+Thu-dog_Labrador_retriever(Images of Labrador Retrievers, medium to large dogs with a short, dense coat, known for their friendly nature and retrieving skills.);365
+Thu-dog_Shih_Tzu(Images of Shih Tzus, small toy dogs with a long, flowing coat and a distinctive pushed-in face.);366
+Thu-dog_Chihuahua(Images of Chihuahuas, small dogs with a variety of coat types, known for their tiny size and big personality.);367
+Thu-dog_Pekinese(Images of Pekingese, small toy dogs with a long, flowing coat and a distinctive pushed-in face.);368
+Thu-dog_golden_retriever(Images of Golden Retrievers, large dogs with a dense, golden coat, known for their friendly, outgoing personality and retrieving skills.);369
+Thu-dog_miniature_pinscher(Images of Miniature Pinschers, small, energetic dogs with a sleek coat and a fearless demeanor.);370
+Thu-dog_teddy(Images of Teddy Dogs, often referring to various breeds with a fluffy, teddy bear-like appearance.);371
+Thu-dog_pug(Images of Pugs, small dogs with a wrinkled face, large eyes, and a distinctive curled tail.);372
+Thu-dog_papillon(Images of Papillons, small toy dogs with distinctive butterfly-like ears and a long, flowing coat.);373
