@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: jclip
+Version: 1.0
+Author: OpenAI
+Requires-Dist: ftfy
+Requires-Dist: regex
+Requires-Dist: tqdm
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"

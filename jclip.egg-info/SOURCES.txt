@@ -1,0 +1,12 @@
+README.md
+setup.py
+jclip/__init__.py
+jclip/clip.py
+jclip/mha.py
+jclip/model.py
+jclip/simple_tokenizer.py
+jclip.egg-info/PKG-INFO
+jclip.egg-info/SOURCES.txt
+jclip.egg-info/dependency_links.txt
+jclip.egg-info/requires.txt
+jclip.egg-info/top_level.txt
