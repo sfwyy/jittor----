@@ -69,7 +69,12 @@ print(f"模型的总参数量: {total_params/(1024*1024)}M")
 
 ## 开源链接
 
-热身赛链接：[llrong/jittor-开始测试-手写数字生成: 第四届计图人工智能挑战赛，队伍“开始测试”热身赛代码及结果，使用jittor框架 | GitLink](https://gitlink.org.cn/p38ij7xsv/jittor_kaishiceshi/tree/master)
+热身赛链接：
 
-赛题1链接：[llrong/jittor-开始测试-开放域少样本视觉分类: 本项目为第四届计图人工智能挑战赛队伍“开始测试”在赛题一：开放域少样本视觉分类赛题的项目开源 | GitLink](https://www.gitlink.org.cn/p38ij7xsv/jittor_kaishiceshi_jclip/tree/master)
+[llrong/jittor-开始测试-手写数字生成: 第四届计图人工智能挑战赛，队伍“开始测试”热身赛代码及结果，使用jittor框架 | GitLink](https://gitlink.org.cn/p38ij7xsv/jittor_kaishiceshi/tree/master)
 
+赛题1链接：
+
+gitlink: [llrong/jittor-开始测试-开放域少样本视觉分类: 本项目为第四届计图人工智能挑战赛队伍“开始测试”在赛题一：开放域少样本视觉分类赛题的项目开源 | GitLink](https://www.gitlink.org.cn/p38ij7xsv/jittor_kaishiceshi_jclip/tree/master)
+
+github: [sfwyy/jittor----: 本项目为第四届计图人工智能挑战赛-开放域少样本视觉分类赛题队伍“开始测试”的代码实现。 (github.com)](https://github.com/sfwyy/jittor----)
